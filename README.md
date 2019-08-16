@@ -5,6 +5,7 @@ This repository contains shared configuration npm packages used in LabKey module
 <!--- keep these alphabetical --->
 | Package | Description |
 | --- | --- |
+| [@labkey/dependencies](packages/dependencies/README.md) | Defines the base set of shared npm package dependencies for application pages developed LabKey.
 | [@labkey/eslint-config-base](packages/eslint-config-base/README.md) | Base ESLint configuration with TypeScript and Prettier support.
 | [@labkey/eslint-config-react](packages/eslint-config-react/README.md) | Extends the base configuration with React support.
 
